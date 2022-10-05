@@ -11,12 +11,13 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 
 ### Clement Foo Shi Yu
 
-<img src="images/cfsy.jpg" width="200px">
+<img src="images/cfsy.png" width="200px">
 
 [[github](https://github.com/CFSY)]
 [[portfolio](team/cfsy.md)]
 
-* Role: Project Advisor
+* Role: Developer
+* Responsibilities: Logic
 
 ### Chen Shun
 
@@ -47,12 +48,12 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Developer
 * Responsibilities: Dev Ops + Threading
 
-### James Doe
+### Tan Shao Ning
 
-<img src="images/johndoe.png" width="200px">
+<img src="images/ningtan11.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/johndoe.md)]
+[[github](http://github.com/ningtan11)]
+[[portfolio](team/ningtan11.md)]
 
 * Role: Developer
 * Responsibilities: UI
