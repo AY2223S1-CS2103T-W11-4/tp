@@ -36,14 +36,14 @@ If this is your first time using Waddle, check out our Tutorial for Beginners.
       5. [`delete` Deleting an itinerary](#deleting-an-itinerary--delete)
       6. [`clear` Clearing itineraries](#clearing-itineraries--clear)
       7. [`select` Selecting an itinerary](#selecting-an-itinerary--select)
-   4. [**The planning page**](#the-planning-page)
-   5. [**Commands on item planning page**](#commands-on-the-item-planning-page)
-      1. [`add` Adding an item](#adding-an-item--add)
-      2. [`edit` Editing the details of an item](#editing-the-details-of-an-item--edit)
-      3. [`delete` Deleting an item](#deleting-an-item--delete)
+   4. [**The planning page**](#the-activity-planning-page)
+   5. [**Commands on item planning page**](#commands-on-the-activity-planning-page)
+      1. [`add` Adding an item](#adding-an-activity--add)
+      2. [`edit` Editing the details of an item](#editing-the-details-of-an-activity--edit)
+      3. [`delete` Deleting an item](#deleting-an-activity--delete)
       4. [`free` Viewing vacant timeslots](#viewing-vacant-timeslots--free)
-      5. [`plan` Scheduling an item](#scheduling-an-item--plan)
-      6. [`unplan` Unscheduling an item](#unscheduling-an-item--unplan)
+      5. [`plan` Scheduling an item](#scheduling-an-activity--plan)
+      6. [`unplan` Unscheduling an item](#unscheduling-an-activity--unplan)
       7. [`copy` Copying to clipboard](#copying-to-clipboard--copy)
       8. [`pdf` Exporting as PDF file](#exporting-as-pdf-file--pdf)
       9. [`home` Returning to main page](#returning-to-main-page--home)
@@ -53,7 +53,7 @@ If this is your first time using Waddle, check out our Tutorial for Beginners.
 4. [**FAQ**](#faq)
 5. [**Command summary**](#command-summary)
    1. [**Home page commands**](#home-page-commands)
-   2. [**Activity-planning page commands**](#item-planning-page-commands)
+   2. [**Activity-planning page commands**](#activity-planning-page-commands)
 
 --------------------------------------------------------------------------------------------------------------------
 <div style="page-break-after: always"></div>
@@ -81,7 +81,7 @@ Some example commands you can try:
 
    * **`add`** `d/My Japan Trip du/14 sd/2023-04-01` : Adds an itinerary for a 14-day trip named "My Japan Trip", which starts on the 1st of April 2023.
    
-   * **`select`** `1` : Brings you into [the planning page](#the-planning-page) for the 1st itinerary shown in the current list.
+   * **`select`** `1` : Brings you into [the planning page](#the-activity-planning-page) for the 1st itinerary shown in the current list.
 
    * **`delete`** `1` : Deletes the 1st itinerary shown in the current list.
 
@@ -123,7 +123,7 @@ For more commands and their details, refer to the [Features](#features) section 
 
 ### Universal commands
 
-Most commands in Waddle can only be used on the [main page](#the-main-page) or the [planning page](#the-planning-page). However, the commands in this section may be used on either page at any time.
+Most commands in Waddle can only be used on the [main page](#the-main-page) or the [planning page](#the-activity-planning-page). However, the commands in this section may be used on either page at any time.
 
 ### Viewing help : `help`
 
@@ -152,7 +152,7 @@ The main page, or home page, of Waddle displays the list of itineraries you have
 * [edit](#editing-the-details-of-an-itinerary--edit) or [delete](#deleting-an-itinerary--delete) existing itineraries
 * [clear](#clearing-itineraries--clear) all existing itineraries
 
-Using the [`select` command](#selecting-an-itinerary--select)  will bring you to the [planning page](#the-planning-page) of the selected itinerary.
+Using the [`select` command](#selecting-an-itinerary--select)  will bring you to the [planning page](#the-activity-planning-page) of the selected itinerary.
 
 <div style="page-break-after: always"></div>
 
@@ -275,7 +275,7 @@ Format: `clear`
 ![Clear command](images/clearCommand.png)
 ### Selecting an itinerary : `select`
 
-Enters the [item planning page](#the-planning-page) for the selected itinerary.
+Enters the [item planning page](#the-activity-planning-page) for the selected itinerary.
 
 Format: `select INDEX`
 
